@@ -1,0 +1,14 @@
+.carousel-item img{
+    width: 100vw;
+    height: 450px;
+}
+.img-fluid{
+    width: 400px;
+    height: 400px;
+}
+label{
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+}
